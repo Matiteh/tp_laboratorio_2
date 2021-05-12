@@ -1,0 +1,5 @@
+C:\Users\Mai'tities\Desktop\CalculadoraMolina\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mai'tities\Desktop\CalculadoraMolina\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mai'tities\Desktop\CalculadoraMolina\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mai'tities\Desktop\CalculadoraMolina\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mai'tities\Desktop\CalculadoraMolina\Entidades\obj\Debug\Entidades.pdb
